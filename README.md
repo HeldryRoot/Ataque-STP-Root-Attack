@@ -139,7 +139,7 @@ Switch# show spanning-tree inconsistentports
 
 El ataque STP Root Claim demuestra que los protocolos de control de infraestructura como STP fueron diseñados sin contemplar la presencia de actores maliciosos en la red. BPDU Guard y Root Guard son las contramedidas estándar y deben configurarse en todos los puertos de acceso de usuario en redes de producción.  
   
-Link de GitHub: https://github.com/HeldryRoot/Ataque-STP-Claim-Root-Attack.git
+Link de GitHub: https://github.com/HeldryRoot/Ataque-STP-Root-Attack
 
 Link del Video de Youtube: https://youtu.be/76jJZCWF9IU?si=MpYJM7LkR3Uwq7xx
 
