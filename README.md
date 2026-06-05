@@ -1,4 +1,4 @@
-# Ataque-STP-Claim-Root-Attack
+# Ataque-STP-Root-Attack
 
 <img width="654" height="276" alt="image" src="https://github.com/user-attachments/assets/edfcc30b-66cc-4465-95dc-13ea7e5fda80" />
 
